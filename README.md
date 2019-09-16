@@ -14,7 +14,7 @@ A Python package to fetch, filter, analyse and plot data from twitter.
 ~~pip install yatclient~~
 
 for now 
-`git clone https://gitlab.gwdg.de/dustin.theobald/twitter_data_analysis.git
+`git clone https://github.com/Githopp/Yet-Another-Twitter-Client
 `
 And then:
 `pip install -e "pathtopackage"[with_jupyter]`
@@ -32,7 +32,7 @@ nltk,
 numpy,
 tweepy,
 pandas,
-scikit-learn^,
+scikit-learn,
 wordcloud
 
 ## License
